@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 This is an example of my teaching portfolio. This lab focused on teaching biodiversity using ants.
-Here is the lab for udnergraduates:
+Here is the lab for undergraduates:
 <object data="../pdfs/Bio2260-AntBiodiversitylab-2024-04-16.pdf" width="500" height="500" type='application/pdf'></object>
 
 
