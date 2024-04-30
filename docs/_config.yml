@@ -22,7 +22,7 @@ title: Kyle Sozanski
 email: kssozanski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A professional site for just a guy.
-baseurl: /docs/ # the subpath of your site, e.g. /blog
+baseurl: /docs # the subpath of your site, e.g. /blog
 url: https://KySoza.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  KySoza
