@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: ./
+source: /gh-pages
 incremental: false
 highlighter: rouge
 gist:
